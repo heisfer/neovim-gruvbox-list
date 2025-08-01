@@ -1,0 +1,11 @@
+= List of gruvbox colorschemes for neovim
+
+* original gruvbox https://github.com/morhetz/gruvbox
+* updated fork of original gruvbox "community gruvbox" https://github.com/gruvbox-community/gruvbox
+* port of original gruvbox to lua https://github.com/ellisonleao/gruvbox.nvim
+* gruvbox baby https://github.com/luisiacc/gruvbox-baby
+* gruvbox material vimscript https://github.com/sainnhe/gruvbox-material/
+** This is by default a spinoff colorscheme, but the original gruvbox color palette can be used.
+* gruvbox material lua https://github.com/f4z3r/gruvbox-material.nvim/
+** This one does not have the original gruvbox color palette as of writing this, so its a spinoff theme.
+* builtin vim "retrobox" theme.
