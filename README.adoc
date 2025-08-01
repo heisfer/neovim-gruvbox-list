@@ -9,3 +9,5 @@
 * gruvbox material lua https://github.com/f4z3r/gruvbox-material.nvim/
 ** This one does not have the original gruvbox color palette as of writing this, so its a spinoff theme.
 * builtin vim "retrobox" theme.
+
+© DeezNuts Foundation 2025
